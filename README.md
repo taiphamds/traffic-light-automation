@@ -8,6 +8,7 @@ However, when traffic density is light - imagine there’s only one person waiti
     width="320"
   />
 </p>
+
 ### Example:
 At a four-way intersection (East-West-SouthNorth; East-West are opposite, South-North are opposite), the light cycle is green → yellow → red. 
 When the North-South green light ends and turns yellow, the camera on the East-West lane detects and counts the number of waiting vehicles and calculates the green time based on the average vehicle type. When the East-West green light ends and turns yellow, the camera on the North-South lane does the same - and the cycle continues.
