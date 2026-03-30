@@ -6,6 +6,7 @@ However, when traffic density is light - imagine there’s only one person waiti
 <img width="320" alt="rs1" src="https://github.com/user-attachments/assets/6016f3ac-2e68-484b-9a9d-c25e46e0ab34" />
 <br>
 <br><br>
+</div>
 
 ### Example:
 At a four-way intersection (East-West-SouthNorth; East-West are opposite, South-North are opposite), the light cycle is green → yellow → red. 
