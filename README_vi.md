@@ -4,7 +4,6 @@
 <div align="center">
 <img width="320" alt="rs1" src="https://github.com/user-attachments/assets/6016f3ac-2e68-484b-9a9d-c25e46e0ab34" />
 <br>
-<br><br>
 </div>
 
 ### Ví dụ:
